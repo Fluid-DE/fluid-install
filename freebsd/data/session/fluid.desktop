@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Fluid
+Name[ca]=Fluid
+Name[de]=Fluid
+Name[fr]=Fluid
+#Comment=Log in using Fluid (Version @VERSION@)
+#Comment[ca]= Fluid (Versió @VERSION@)
+#Icon=
+#TryExec=@prefix@/bin/fluid_start
+#Exec=@prefix@/bin/fluid_start
+DesktopNames=Fluid
